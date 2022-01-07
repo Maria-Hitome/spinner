@@ -6,8 +6,7 @@
 @keyframes spinner{
     to{
         transform: rotate(360deg);
-    }
-    
+    }  
 }
 body{
     margin: 50%;
